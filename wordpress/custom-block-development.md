@@ -1,4 +1,4 @@
-# カスタムブロックの作り方（@wordpress/scripts）
+docs(wordpress):コアブロックの種類と使い分け# カスタムブロックの作り方（@wordpress/scripts）
 
 ## 概要
 
