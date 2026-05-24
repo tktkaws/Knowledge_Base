@@ -15,7 +15,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 ### 1.2 時間依存メディア
 
 - [x] [1.2.1 音声のみ・映像のみ（収録済）（A）](./1-2-1-audio-only-and-video-only.md)
-- [ ] [1.2.2 キャプション（収録済）（A）](./1-2-2-captions-prerecorded.md)
+- [x] [1.2.2 キャプション（収録済）（A）](./1-2-2-captions-prerecorded.md)
 - [x] [1.2.3 音声解説またはメディアの代替（収録済）（A）](./1-2-3-audio-description-or-media-alternative.md)
 - [ ] [1.2.4 キャプション（ライブ）（AA）](./1-2-4-captions-live.md)
 - [ ] [1.2.5 音声解説（収録済）（AA）](./1-2-5-audio-description-prerecorded.md)
