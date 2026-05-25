@@ -18,7 +18,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [1.2.2 キャプション（収録済）（A）](./1-2-2-captions-prerecorded.md)
 - [x] [1.2.3 音声解説またはメディアの代替（収録済）（A）](./1-2-3-audio-description-or-media-alternative.md)
 - [x] [1.2.4 キャプション（ライブ）（AA）](./1-2-4-captions-live.md)
-- [ ] [1.2.5 音声解説（収録済）（AA）](./1-2-5-audio-description-prerecorded.md)
+- [x] [1.2.5 音声解説（収録済）（AA）](./1-2-5-audio-description-prerecorded.md)
 - [ ] [1.2.6 手話（収録済）（AAA）](./1-2-6-sign-language-prerecorded.md)
 - [ ] [1.2.7 拡張音声解説（収録済）（AAA）](./1-2-7-extended-audio-description.md)
 - [ ] [1.2.8 メディアの代替（収録済）（AAA）](./1-2-8-media-alternative-prerecorded.md)
