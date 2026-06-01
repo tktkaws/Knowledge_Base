@@ -22,7 +22,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [1.2.6 手話（収録済）（AAA）](./1-2-6-sign-language-prerecorded.md)
 - [x] [1.2.7 拡張音声解説（収録済）（AAA）](./1-2-7-extended-audio-description.md)
 - [x] [1.2.8 メディアの代替（収録済）（AAA）](./1-2-8-media-alternative-prerecorded.md)
-- [ ] [1.2.9 音声のみ（ライブ）（AAA）](./1-2-9-audio-only-live.md)
+- [x] [1.2.9 音声のみ（ライブ）（AAA）](./1-2-9-audio-only-live.md)
 
 ### 1.3 適応可能
 
