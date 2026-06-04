@@ -28,7 +28,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 
 - [x] [1.3.1 情報および関係性（A）](./1-3-1-info-and-relationships.md)
 - [x] [1.3.2 意味のある順序（A）](./1-3-2-meaningful-sequence.md)
-- [ ] [1.3.3 感覚的な特徴（A）](./1-3-3-sensory-characteristics.md)
+- [x] [1.3.3 感覚的な特徴（A）](./1-3-3-sensory-characteristics.md)
 - [ ] [1.3.4 表示の向き（AA）](./1-3-4-orientation.md)
 - [ ] [1.3.5 入力目的の特定（AA）](./1-3-5-identify-input-purpose.md)
 - [ ] [1.3.6 目的の特定（AAA）](./1-3-6-identify-purpose.md)
