@@ -35,8 +35,8 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 
 ### 1.4 判別可能
 
-- [ ] [1.4.1 色の使用（A）](./1-4-1-use-of-color.md)
-- [ ] [1.4.2 音声の制御（A）](./1-4-2-audio-control.md)
+- [x] [1.4.1 色の使用（A）](./1-4-1-use-of-color.md)
+- [x] [1.4.2 音声の制御（A）](./1-4-2-audio-control.md)
 - [ ] [1.4.3 コントラスト（最低限）（AA）](./1-4-3-contrast-minimum.md)
 - [ ] [1.4.4 テキストのサイズ変更（AA）](./1-4-4-resize-text.md)
 - [ ] [1.4.5 文字画像（AA）](./1-4-5-images-of-text.md)
