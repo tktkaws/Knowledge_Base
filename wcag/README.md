@@ -40,7 +40,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [1.4.3 コントラスト（最低限）（AA）](./1-4-3-contrast-minimum.md)
 - [x] [1.4.4 テキストのサイズ変更（AA）](./1-4-4-resize-text.md)
 - [x] [1.4.5 文字画像（AA）](./1-4-5-images-of-text.md)
-- [ ] [1.4.6 コントラスト（高度）（AAA）](./1-4-6-contrast-enhanced.md)
+- [x] [1.4.6 コントラスト（高度）（AAA）](./1-4-6-contrast-enhanced.md)
 - [ ] [1.4.7 小さな背景音または背景音なし（AAA）](./1-4-7-low-or-no-background-audio.md)
 - [ ] [1.4.8 視覚的提示（AAA）](./1-4-8-visual-presentation.md)
 - [ ] [1.4.9 文字画像（例外なし）（AAA）](./1-4-9-images-of-text-no-exception.md)
