@@ -44,7 +44,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [1.4.7 小さな背景音または背景音なし（AAA）](./1-4-7-low-or-no-background-audio.md)
 - [x] [1.4.8 視覚的提示（AAA）](./1-4-8-visual-presentation.md)
 - [x] [1.4.9 文字画像（例外なし）（AAA）](./1-4-9-images-of-text-no-exception.md)
-- [ ] [1.4.10 リフロー（AA）](./1-4-10-reflow.md)
+- [x] [1.4.10 リフロー（AA）](./1-4-10-reflow.md)
 - [ ] [1.4.11 非テキストのコントラスト（AA）](./1-4-11-non-text-contrast.md)
 - [ ] [1.4.12 テキストの間隔（AA）](./1-4-12-text-spacing.md)
 - [ ] [1.4.13 ホバーまたはフォーカスで表示されるコンテンツ（AA）](./1-4-13-content-on-hover-or-focus.md)
