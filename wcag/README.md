@@ -55,7 +55,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 
 ### 2.1 キーボード操作可能
 
-- [ ] [2.1.1 キーボード（A）](./2-1-1-keyboard.md)
+- [x] [2.1.1 キーボード（A）](./2-1-1-keyboard.md)
 - [ ] [2.1.2 キーボードトラップなし（A）](./2-1-2-no-keyboard-trap.md)
 - [ ] [2.1.3 キーボード（例外なし）（AAA）](./2-1-3-keyboard-no-exception.md)
 - [ ] [2.1.4 文字キーのショートカット（A）](./2-1-4-character-key-shortcuts.md)
