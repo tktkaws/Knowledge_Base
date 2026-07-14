@@ -62,7 +62,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 
 ### 2.2 十分な時間
 
-- [ ] [2.2.1 タイミング調整可能（A）](./2-2-1-timing-adjustable.md)
+- [x] [2.2.1 タイミング調整可能（A）](./2-2-1-timing-adjustable.md)
 - [ ] [2.2.2 一時停止・停止・非表示（A）](./2-2-2-pause-stop-hide.md)
 - [ ] [2.2.3 タイミング非依存（AAA）](./2-2-3-no-timing.md)
 - [ ] [2.2.4 割り込み（AAA）](./2-2-4-interruptions.md)
