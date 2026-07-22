@@ -72,7 +72,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 ### 2.3 発作と身体的反応
 
 - [x] [2.3.1 3回の閃光またはしきい値以下（A）](./2-3-1-three-flashes-or-below-threshold.md)
-- [ ] [2.3.2 3回の閃光（AAA）](./2-3-2-three-flashes.md)
+- [x] [2.3.2 3回の閃光（AAA）](./2-3-2-three-flashes.md)
 - [ ] [2.3.3 インタラクションによるアニメーション（AAA）](./2-3-3-animation-from-interactions.md)
 
 ### 2.4 ナビゲーション可能
