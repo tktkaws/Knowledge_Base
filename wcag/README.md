@@ -84,7 +84,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [2.4.5 複数の手段（AA）](./2-4-5-multiple-ways.md)
 - [x] [2.4.6 見出しおよびラベル（AA）](./2-4-6-headings-and-labels.md)
 - [x] [2.4.7 フォーカスの可視化（AA）](./2-4-7-focus-visible.md)
-- [ ] [2.4.8 現在位置（AAA）](./2-4-8-location.md)
+- [x] [2.4.8 現在位置（AAA）](./2-4-8-location.md)
 - [ ] [2.4.9 リンクの目的（リンクのみ）（AAA）](./2-4-9-link-purpose-link-only.md)
 - [ ] [2.4.10 セクション見出し（AAA）](./2-4-10-section-headings.md)
 - [ ] [2.4.11 フォーカスが隠れない（最低限）（AA）`[New]`](./2-4-11-focus-not-obscured-minimum.md)
