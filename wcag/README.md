@@ -94,7 +94,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 ### 2.5 入力モダリティ
 
 - [x] [2.5.1 ポインタのジェスチャ（A）](./2-5-1-pointer-gestures.md)
-- [ ] [2.5.2 ポインタのキャンセル（A）](./2-5-2-pointer-cancellation.md)
+- [x] [2.5.2 ポインタのキャンセル（A）](./2-5-2-pointer-cancellation.md)
 - [ ] [2.5.3 名前（name）のラベル（A）](./2-5-3-label-in-name.md)
 - [ ] [2.5.4 動きによる起動（A）](./2-5-4-motion-actuation.md)
 - [ ] [2.5.5 ターゲットのサイズ（高度）（AAA）](./2-5-5-target-size-enhanced.md)
