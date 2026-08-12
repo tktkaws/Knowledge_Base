@@ -98,7 +98,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [2.5.3 名前（name）のラベル（A）](./2-5-3-label-in-name.md)
 - [x] [2.5.4 動きによる起動（A）](./2-5-4-motion-actuation.md)
 - [x] [2.5.5 ターゲットのサイズ（高度）（AAA）](./2-5-5-target-size-enhanced.md)
-- [ ] [2.5.7 ドラッグ操作（AA）`[New]`](./2-5-7-dragging-movements.md)
+- [x] [2.5.7 ドラッグ操作（AA）`[New]`](./2-5-7-dragging-movements.md)
 - [ ] [2.5.8 ターゲットのサイズ（最低限）（AA）`[New]`](./2-5-8-target-size-minimum.md)
 
 ---
