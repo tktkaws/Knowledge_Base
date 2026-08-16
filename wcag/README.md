@@ -110,7 +110,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [3.1.1 ページの言語（A）](./3-1-1-language-of-page.md)
 - [x] [3.1.2 一部分の言語（AA）](./3-1-2-language-of-parts.md)
 - [x] [3.1.3 一般的でない用語（AAA）](./3-1-3-unusual-words.md)
-- [ ] [3.1.4 略語（AAA）](./3-1-4-abbreviations.md)
+- [x] [3.1.4 略語（AAA）](./3-1-4-abbreviations.md)
 - [ ] [3.1.5 読解レベル（AAA）](./3-1-5-reading-level.md)
 - [ ] [3.1.6 発音（AAA）](./3-1-6-pronunciation.md)
 
