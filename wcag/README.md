@@ -119,7 +119,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 - [x] [3.2.1 フォーカス時（A）](./3-2-1-on-focus.md)
 - [x] [3.2.2 入力時（A）](./3-2-2-on-input.md)
 - [x] [3.2.3 一貫したナビゲーション（AA）](./3-2-3-consistent-navigation.md)
-- [ ] [3.2.4 一貫した識別性（AA）](./3-2-4-consistent-identification.md)
+- [x] [3.2.4 一貫した識別性（AA）](./3-2-4-consistent-identification.md)
 - [ ] [3.2.5 要求による変化（AAA）](./3-2-5-change-on-request.md)
 - [ ] [3.2.6 一貫したヘルプ（A）`[New]`](./3-2-6-consistent-help.md)
 
