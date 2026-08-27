@@ -126,7 +126,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 ### 3.3 入力支援
 
 - [x] [3.3.1 エラーの特定（A）](./3-3-1-error-identification.md)
-- [ ] [3.3.2 ラベルまたは説明（A）](./3-3-2-labels-or-instructions.md)
+- [x] [3.3.2 ラベルまたは説明（A）](./3-3-2-labels-or-instructions.md)
 - [ ] [3.3.3 エラー修正の提案（AA）](./3-3-3-error-suggestion.md)
 - [ ] [3.3.4 エラー回避（法的・金融・データ）（AA）](./3-3-4-error-prevention-legal-financial-data.md)
 - [ ] [3.3.5 ヘルプ（AAA）](./3-3-5-help.md)
