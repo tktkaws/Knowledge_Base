@@ -141,7 +141,7 @@ WCAG 2.2 の達成基準ごとに解説する記事一覧。レベル A / AA / A
 
 ### 4.1 互換性
 
-- [ ] [4.1.2 名前（name）・役割（role）・値（value）（A）](./4-1-2-name-role-value.md)
+- [x] [4.1.2 名前（name）・役割（role）・値（value）（A）](./4-1-2-name-role-value.md)
 - [ ] [4.1.3 ステータスメッセージ（AA）](./4-1-3-status-messages.md)
 
 > 4.1.1 構文解析（Parsing）は WCAG 2.2 で廃止されたため省略
