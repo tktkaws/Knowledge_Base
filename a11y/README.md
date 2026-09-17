@@ -31,7 +31,7 @@
 - [x] [アクセシブルなツールチップの実装](./accessible-tooltip.md)
 - [x] [アクセシブルなカルーセル / スライダーの実装](./accessible-carousel-slider.md)
 - [x] [アクセシブルなオートコンプリート（コンボボックス）の実装](./accessible-combobox.md)
-- [ ] アクセシブルなデータテーブルの実装
+- [x] [アクセシブルなデータテーブルの実装](./accessible-data-table.md)
 - [ ] アクセシブルなパンくずリストの実装
 
 ## テスト・検証
