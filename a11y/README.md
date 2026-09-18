@@ -32,7 +32,7 @@
 - [x] [アクセシブルなカルーセル / スライダーの実装](./accessible-carousel-slider.md)
 - [x] [アクセシブルなオートコンプリート（コンボボックス）の実装](./accessible-combobox.md)
 - [x] [アクセシブルなデータテーブルの実装](./accessible-data-table.md)
-- [ ] アクセシブルなパンくずリストの実装
+- [x] [アクセシブルなパンくずリストの実装](./accessible-breadcrumb.md)
 
 ## テスト・検証
 - [x] [axe-core / Lighthouseを使ったアクセシビリティ自動テスト](./a11y-automated-testing.md)
