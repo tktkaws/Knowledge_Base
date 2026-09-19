@@ -19,7 +19,7 @@
 - [x] [キーボードナビゲーションの基本 — Tab, Enter, Escape](./keyboard-navigation-basics.md)
 - [x] [フォーカス管理 — tabindex, focus(), フォーカストラップ](./focus-management.md)
 - [x] [ロービングタブインデックスパターン](./roving-tabindex.md)
-- [ ] キーボードショートカットの設計原則とWCAG 2.1要件
+- [x] [キーボードショートカットの設計原則とWCAG 2.1要件](./keyboard-shortcut-design.md)
 
 ## コンポーネントパターン
 - [x] [アクセシブルなモーダルダイアログの実装](./accessible-modal-dialog.md)
