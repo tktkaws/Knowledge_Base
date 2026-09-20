@@ -38,7 +38,7 @@
 - [x] [axe-core / Lighthouseを使ったアクセシビリティ自動テスト](./a11y-automated-testing.md)
 - [x] [手動テストのチェックリスト — 最低限確認すべき項目](./manual-testing-checklist.md)
 - [x] [カラーコントラスト比の基準と確認方法](./color-contrast.md)
-- [ ] スクリーンリーダーでの手動テスト入門 — VoiceOver / NVDA
+- [x] [スクリーンリーダーでの手動テスト入門 — VoiceOver / NVDA](./screen-reader-manual-testing.md)
 - [ ] CI/CDにアクセシビリティテストを組み込む方法
 
 ## 実践
