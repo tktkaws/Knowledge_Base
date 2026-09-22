@@ -39,7 +39,7 @@
 - [x] [手動テストのチェックリスト — 最低限確認すべき項目](./manual-testing-checklist.md)
 - [x] [カラーコントラスト比の基準と確認方法](./color-contrast.md)
 - [x] [スクリーンリーダーでの手動テスト入門 — VoiceOver / NVDA](./screen-reader-manual-testing.md)
-- [ ] CI/CDにアクセシビリティテストを組み込む方法
+- [x] [CI/CDにアクセシビリティテストを組み込む方法](./a11y-ci-cd.md)
 
 ## 実践
 - [x] [画像のalt属性 — 適切な代替テキストの書き方](./image-alt-text.md)
