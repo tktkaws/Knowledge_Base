@@ -46,6 +46,6 @@
 - [x] [prefers-reduced-motion — モーション設定への対応](./prefers-reduced-motion.md)
 - [x] [prefers-color-scheme — ダークモード対応の基礎](./prefers-color-scheme.md)
 - [x] [スキップリンクの実装と意義](./skip-link.md)
-- [ ] セマンティックHTMLの原則 — div/spanに頼らないマークアップ
+- [x] [セマンティックHTMLの原則 — div/spanに頼らないマークアップ](./semantic-html.md)
 - [ ] ランドマークロールとページ構造の設計
 - [ ] フォーカスインジケーターのカスタマイズ — :focus-visibleの活用
