@@ -47,5 +47,5 @@
 - [x] [prefers-color-scheme — ダークモード対応の基礎](./prefers-color-scheme.md)
 - [x] [スキップリンクの実装と意義](./skip-link.md)
 - [x] [セマンティックHTMLの原則 — div/spanに頼らないマークアップ](./semantic-html.md)
-- [ ] ランドマークロールとページ構造の設計
+- [x] [ランドマークロールとページ構造の設計](./landmark-regions.md)
 - [ ] フォーカスインジケーターのカスタマイズ — :focus-visibleの活用
