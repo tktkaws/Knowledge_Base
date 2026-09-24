@@ -48,4 +48,4 @@
 - [x] [スキップリンクの実装と意義](./skip-link.md)
 - [x] [セマンティックHTMLの原則 — div/spanに頼らないマークアップ](./semantic-html.md)
 - [x] [ランドマークロールとページ構造の設計](./landmark-regions.md)
-- [ ] フォーカスインジケーターのカスタマイズ — :focus-visibleの活用
+- [x] [フォーカスインジケーターのカスタマイズ — :focus-visibleの活用](./focus-visible.md)
