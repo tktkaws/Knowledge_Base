@@ -4,7 +4,7 @@
 - [x] [var / let / const の違いとスコープ](./var-let-const.md)
 - [x] [アロー関数と従来の関数宣言の違い](./arrow-vs-function.md)
 - [x] [分割代入(Destructuring)の基本と活用](./destructuring.md)
-- [ ] スプレッド構文とレスト構文
+- [x] [スプレッド構文とレスト構文](./spread-rest.md)
 - [ ] テンプレートリテラルの使い方
 - [ ] Optional Chaining(?.)とNullish Coalescing(??)
 
