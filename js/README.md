@@ -5,7 +5,7 @@
 - [x] [アロー関数と従来の関数宣言の違い](./arrow-vs-function.md)
 - [x] [分割代入(Destructuring)の基本と活用](./destructuring.md)
 - [x] [スプレッド構文とレスト構文](./spread-rest.md)
-- [ ] テンプレートリテラルの使い方
+- [x] [テンプレートリテラルの使い方](./template-literals.md)
 - [ ] Optional Chaining(?.)とNullish Coalescing(??)
 
 ## 配列・オブジェクト操作
