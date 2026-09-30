@@ -6,7 +6,7 @@
 - [x] [分割代入(Destructuring)の基本と活用](./destructuring.md)
 - [x] [スプレッド構文とレスト構文](./spread-rest.md)
 - [x] [テンプレートリテラルの使い方](./template-literals.md)
-- [ ] Optional Chaining(?.)とNullish Coalescing(??)
+- [x] [Optional Chaining(?.)とNullish Coalescing(??)](./optional-chaining-nullish-coalescing.md)
 
 ## 配列・オブジェクト操作
 - [ ] map / filter / reduce の使い分け
