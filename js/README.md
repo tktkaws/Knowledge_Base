@@ -9,7 +9,7 @@
 - [x] [Optional Chaining(?.)とNullish Coalescing(??)](./optional-chaining-nullish-coalescing.md)
 
 ## 配列・オブジェクト操作
-- [ ] map / filter / reduce の使い分け
+- [x] [map / filter / reduce の使い分け](./map-filter-reduce.md)
 - [ ] イミュータブルな配列・オブジェクト操作パターン
 - [ ] structuredClone() — ディープコピーの正しい方法
 - [ ] Object.entries / Object.fromEntries の活用
