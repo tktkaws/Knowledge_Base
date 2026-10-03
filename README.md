@@ -5,17 +5,19 @@
 
 ## カテゴリ一覧
 
-| ディレクトリ | テーマ | 記事数 |
-|---|---|---|
-| [html](./html/) | HTML — セマンティクス、フォーム、構造化データ、モダンHTML | 0 / 19 |
-| [css](./css/) | CSS — レイアウト、アニメーション、モダンCSS | 0 / 21 |
-| [js](./js/) | JavaScript — 基礎、非同期処理、DOM操作、モダンJS | 0 / 24 |
-| [a11y](./a11y/) | アクセシビリティ — WAI-ARIA、キーボード操作、テスト | 3 / 20 |
-| [react](./react/) | React — State管理、フック、パフォーマンス、設計パターン | 0 / 24 |
-| [nextjs](./nextjs/) | Next.js — App Router、レンダリング、データ取得 | 0 / 21 |
-| [astro](./astro/) | Astro — アイランドアーキテクチャ、コンテンツ管理 | 0 / 18 |
-| [p5js](./p5js/) | p5.js — クリエイティブコーディング、アニメーション | 0 / 19 |
-| [other](./other/) | その他 — JSON-LD、サイトマップ、Puppeteer、WordPress | 4 / 4 |
+| ディレクトリ | テーマ |
+|---|---|
+| [html](./html/) | HTML — セマンティクス、フォーム、構造化データ、モダンHTML |
+| [css](./css/) | CSS — レイアウト、アニメーション、モダンCSS |
+| [js](./js/) | JavaScript — 基礎、非同期処理、DOM操作、モダンJS |
+| [a11y](./a11y/) | アクセシビリティ — WAI-ARIA、キーボード操作、テスト |
+| [wcag](./wcag/) | WCAG — 達成基準ごとの解説（2.0 / 2.1 / 2.2） |
+| [react](./react/) | React — State管理、フック、パフォーマンス、設計パターン |
+| [nextjs](./nextjs/) | Next.js — App Router、レンダリング、データ取得 |
+| [astro](./astro/) | Astro — アイランドアーキテクチャ、コンテンツ管理 |
+| [p5js](./p5js/) | p5.js — クリエイティブコーディング、アニメーション |
+| [wordpress](./wordpress/) | WordPress — ブロックエディタ、テーマ、theme.json |
+| [other](./other/) | その他 — SEO、SSL/TLS、DNS、サーバー、セキュリティ |
 
 ## 履歴
 
