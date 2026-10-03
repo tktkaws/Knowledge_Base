@@ -2,7 +2,7 @@
 
 ## 基礎
 - [x] [Astroとは何か — コンテンツ重視の静的サイトフレームワーク](./what-is-astro.md)
-- [ ] Astroのアイランドアーキテクチャ — 部分的ハイドレーションの仕組み
+- [x] [Astroのアイランドアーキテクチャ — 部分的ハイドレーションの仕組み](./islands-architecture.md)
 - [ ] .astroファイルの構造 — フロントマタースクリプトとテンプレート
 - [ ] プロジェクト構成 — src/pages, src/components, src/layouts
 

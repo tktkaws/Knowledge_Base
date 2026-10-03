@@ -49,7 +49,7 @@
 
 - ページ全体をSPA化するのではなく、必要な島（コンポーネント）だけを動かす
 - 島以外は静的HTMLのまま
-- 詳細は別記事「Astroのアイランドアーキテクチャ」で扱う
+- 詳細は [Astroのアイランドアーキテクチャ](./islands-architecture.md) を参照
 
 > 参照: [Astro — Islands architecture](https://docs.astro.build/en/concepts/islands/)
 
