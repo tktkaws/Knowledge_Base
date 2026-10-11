@@ -9,7 +9,7 @@
 - [x] [ニューロダイバーシティとWebアクセシビリティ — 認知特性の違いを設計の前提にする](./neurodiversity-and-web-accessibility.md)
 - [x] [障害の社会モデルとWebアクセシビリティ — 個人の能力不足ではなく、環境側の障壁として捉える](./social-model-of-disability.md)
 - [x] [一時的・状況的な制約 — 片手操作、騒音、屋外のまぶしさでも同じ設計が効く理由](./temporary-situational-limitations.md)
-- [ ] 認知アクセシビリティ（COGA） — 記憶・注意・読解の負荷を下げるW3Cの指針
+- [x] [認知アクセシビリティ（COGA） — 記憶・注意・読解の負荷を下げるW3Cの指針](./coga-cognitive-accessibility.md)
 - [ ] アクセシビリティ・オーバーレイの問題 — 後付けの修正ウィジェットでは代替にならない理由
 
 ## ガイドライン
