@@ -10,7 +10,7 @@
 | [html](./html/) | HTML — セマンティクス、フォーム、構造化データ、モダンHTML |
 | [css](./css/) | CSS — レイアウト、アニメーション、モダンCSS |
 | [js](./js/) | JavaScript — 基礎、非同期処理、DOM操作、モダンJS |
-| [a11y](./a11y/) | アクセシビリティ — WAI-ARIA、キーボード操作、テスト |
+| [a11y](./a11y/) | アクセシビリティ — 基礎概念、WAI-ARIA、キーボード操作、テスト |
 | [wcag](./wcag/) | WCAG — 達成基準ごとの解説（2.0 / 2.1 / 2.2） |
 | [react](./react/) | React — State管理、フック、パフォーマンス、設計パターン |
 | [nextjs](./nextjs/) | Next.js — App Router、レンダリング、データ取得 |
@@ -21,6 +21,10 @@
 
 ## 履歴
 
+- 2026-10-11 [認知アクセシビリティ（COGA） — 記憶・注意・読解の負荷を下げるW3Cの指針](./a11y/coga-cognitive-accessibility.md)
+- 2026-10-08 [一時的・状況的な制約 — 片手操作、騒音、屋外のまぶしさでも同じ設計が効く理由](./a11y/temporary-situational-limitations.md)
+- 2026-10-07 [障害の社会モデルとWebアクセシビリティ — 個人の能力不足ではなく、環境側の障壁として捉える](./a11y/social-model-of-disability.md)
+- 2026-10-06 [ニューロダイバーシティとWebアクセシビリティ — 認知特性の違いを設計の前提にする](./a11y/neurodiversity-and-web-accessibility.md)
 - 2026-10-05 [Vercel / Netlify / Cloudflare Pagesへのデプロイ](./astro/deploy-vercel-netlify-cloudflare.md)
 - 2026-10-05 [View Transitions in Astro — ページ遷移アニメーション](./astro/view-transitions.md)
 - 2026-10-05 [astro:assets — 画像最適化の仕組み](./astro/astro-assets-image-optimization.md)
