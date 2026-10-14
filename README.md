@@ -21,6 +21,7 @@
 
 ## 履歴
 
+- 2026-10-14 [アクセシビリティ・オーバーレイの問題 — 後付けの修正ウィジェットでは代替にならない理由](./a11y/accessibility-overlays.md)
 - 2026-10-11 [認知アクセシビリティ（COGA） — 記憶・注意・読解の負荷を下げるW3Cの指針](./a11y/coga-cognitive-accessibility.md)
 - 2026-10-08 [一時的・状況的な制約 — 片手操作、騒音、屋外のまぶしさでも同じ設計が効く理由](./a11y/temporary-situational-limitations.md)
 - 2026-10-07 [障害の社会モデルとWebアクセシビリティ — 個人の能力不足ではなく、環境側の障壁として捉える](./a11y/social-model-of-disability.md)
