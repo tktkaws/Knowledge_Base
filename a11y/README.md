@@ -21,7 +21,7 @@
 - [x] [EN 301 549について — 欧州の調達で参照されるアクセシビリティ規格](./en-301-549.md)
 - [x] [Section 508について — 米国でVPATが求められる法的な背景](./section-508.md)
 - [x] [ARIA APGの読み方 — ウィジェット実装パターン集の公式ガイド](./aria-apg.md)
-- [ ] WCAG2ICTについて — Web以外の文書やソフトウェアへWCAGを当てはめる考え方
+- [x] [WCAG2ICTについて — Web以外の文書やソフトウェアへWCAGを当てはめる考え方](./wcag2ict.md)
 
 ## WAI-ARIA
 - [x] [ARIAロールの基本 — role属性の種類と使い方](./aria-roles.md)
