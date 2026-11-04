@@ -259,81 +259,101 @@ README を除く記事数が5件以上のカテゴリを掲載しています。
 
 ## 移動した記事（59 件）
 
-- [2026年10月時点で安くて堅牢なCMSとは — WordPress・Drupal・Contentfulなどを比較する](./cms/cms-comparison-2026-10.md)
-- [2026年上期インプット一覧](./other/input-resources-2026-h1.md)
-- [ACF PROで標準スタイルとWordの貼り付け書式を両立する](./wordpress/acf-word-paste-styles.md)
-- [ACFブロック](./wordpress/acf-blocks.md)
+### a11y
+
 - [aria-hiddenは禁止したほうがよい？ — 誤用が多い属性と代替手段](./a11y/aria-hidden-pitfalls.md)
+- [DHS Trusted Tester Certificationを取得](./a11y/trusted-tester-certification.md)
+- [inert属性の使い方 — モーダル背後を一括で無効にする](./a11y/inert.md)
+- [swup Accessibility Plugin — AJAX遷移でも読み上げとフォーカスを保つ](./a11y/swup-accessibility-plugin.md)
+- [WCAG-EMについて — 適合評価を5ステップで進める](./a11y/wcag-em.md)
+- [なぜデジタル庁のフォーカスインジケーターは黄色なのか](./a11y/digital-agency-focus-indicator.md)
+- [地図情報のアクセシブルな出し方 — 埋め込み地図だけに頼らない](./a11y/accessible-maps.md)
+
+### astro
+
 - [Astro × microCMSでブログを作る — Content Loaderの基礎](./astro/microcms-content-loader.md)
 - [Astro × swup Fragment Plugin — タグ一覧だけを差し替える](./astro/swup-fragment-plugin.md)
 - [Astroにswupを導入する — ページ遷移をスムーズにする](./astro/swup-setup.md)
-- [CSSプロパティの順番を整理する — VS CodeとPostCSS](./css/property-order.md)
-- [CVSS v4.0スコアとは](./security/cvss-v4.md)
-- [DHS Trusted Tester Certificationを取得](./a11y/trusted-tester-certification.md)
-- [EmDashについて調べてみた — WordPressと比べた運用の差](./cms/emdash.md)
-- [Figmaで修正指示の履歴を管理する](./figma/revision-history.md)
-- [Figmaプラグインの作り方](./figma/plugin-development.md)
-- [GASを使用したCMSを作成したい — Astroで静的生成し、レンタルサーバーへ公開する](./cms/gas-spreadsheet-cms.md)
-- [GitHubのcontributionsを取得する](./js/github-contributions.md)
-- [Google Docsを使用したCMSを作成したい — GASで本文を取得し、許可した書式だけを公開する](./cms/google-docs-cms.md)
-- [inert属性の使い方 — モーダル背後を一括で無効にする](./a11y/inert.md)
-- [Next.js + microCMSでブログを作成](./nextjs/microcms-blog.md)
-- [orientation: portrait について調べてみた](./css/orientation-portrait.md)
-- [p5-learningを制作 — 動くスケッチと解説でp5.jsを学ぶサイト](./p5js/p5-learning.md)
-- [Paper.jsについて調べてみた](./js/paperjs.md)
-- [PHPに脆弱性が発見された時のWeb制作会社としての適切な対応](./security/php-vulnerability-response.md)
-- [Scroll Image Distortionを制作 — スクロールに応じてカード画像を歪ませる](./js/scroll-image-distortion.md)
-- [Scroll Warsを制作 — Astro・three.js・Lenisでスクロールに連動する宇宙の演出を作る](./js/scroll-wars.md)
-- [Spotify風のUIを制作 — GSAPでカバーの縮小とヘッダーの切り替えを作る](./js/spotify-scroll-ui.md)
-- [swup Accessibility Plugin — AJAX遷移でも読み上げとフォーカスを保つ](./a11y/swup-accessibility-plugin.md)
 - [Astro + Swup モザイク遷移アニメ実装ガイド](./astro/swup-mosaic-transition.md)
-- [swup というライブラリの使い方 — ページ遷移をスムーズにする](./js/swup-basics.md)
-- [TinyMCE 5のPasteプラグイン — Wordの書式保持と貼り付け設定](./js/tinymce5-paste.md)
-- [Turnstile と reCAPTCHA — 問い合わせフォームのスパム対策](./security/turnstile-vs-recaptcha.md)
-- [WCAG-EMについて — 適合評価を5ステップで進める](./a11y/wcag-em.md)
-- [Web制作における修正指示のあり方](./workflow/revision-instructions.md)
-- [Web制作会社のインシデント：よくある20パターン](./security/web-agency-incidents.md)
-- [Web制作会社のコーディングガイドライン — 参考資料と目次案](./workflow/coding-guidelines.md)
-- [Web制作会社のセキュリティガイドライン](./security/web-agency-security-guidelines.md)
+
+### cms
+
+- [2026年10月時点で安くて堅牢なCMSとは — WordPress・Drupal・Contentfulなどを比較する](./cms/cms-comparison-2026-10.md)
+- [EmDashについて調べてみた — WordPressと比べた運用の差](./cms/emdash.md)
+- [GASを使用したCMSを作成したい — Astroで静的生成し、レンタルサーバーへ公開する](./cms/gas-spreadsheet-cms.md)
+- [Google Docsを使用したCMSを作成したい — GASで本文を取得し、許可した書式だけを公開する](./cms/google-docs-cms.md)
 - [WordPressとmicroCMS — サーバー契約と問い合わせフォームを含めたランニングコスト](./cms/wordpress-vs-microcms-running-costs.md)
 - [WordPressとmicroCMS — セキュリティを揃えたときの最安プラン](./cms/wordpress-vs-microcms-minimum-plans.md)
 - [WordPressとmicroCMS — セキュリティ対策とランニングコストで比べる](./cms/wordpress-vs-microcms-security.md)
+- [無料枠のあるヘッドレスCMS — Astroで使う候補と繰り返しフィールドの対応](./cms/free-headless-cms.md)
+
+### css
+
+- [CSSプロパティの順番を整理する — VS CodeとPostCSS](./css/property-order.md)
+- [orientation: portrait について調べてみた](./css/orientation-portrait.md)
+- [コンテナタイプ：サイズ — アスペクト比でヒーローのレイアウトを切り替える](./css/container-size-aspect-ratio.md)
+- [フォントサイズをremで指定したまま画面幅に応じて拡縮させる](./css/accessible-fluid-font-scale.md)
+- [フォントメトリクスを調整する方法](./css/font-metrics.md)
+
+### figma
+
+- [Figmaで修正指示の履歴を管理する](./figma/revision-history.md)
+- [Figmaプラグインの作り方](./figma/plugin-development.md)
+
+### html
+
+- [ヒーローのキャッチコピーはh1かpか](./html/hero-heading-or-paragraph.md)
+- [見出しはヘッダーではなくmainタグにいれるべきなのか](./html/headings-in-main.md)
+
+### js
+
+- [GitHubのcontributionsを取得する](./js/github-contributions.md)
+- [Paper.jsについて調べてみた](./js/paperjs.md)
+- [Scroll Image Distortionを制作 — スクロールに応じてカード画像を歪ませる](./js/scroll-image-distortion.md)
+- [Scroll Warsを制作 — Astro・three.js・Lenisでスクロールに連動する宇宙の演出を作る](./js/scroll-wars.md)
+- [Spotify風のUIを制作 — GSAPでカバーの縮小とヘッダーの切り替えを作る](./js/spotify-scroll-ui.md)
+- [swup というライブラリの使い方 — ページ遷移をスムーズにする](./js/swup-basics.md)
+- [TinyMCE 5のPasteプラグイン — Wordの書式保持と貼り付け設定](./js/tinymce5-paste.md)
+- [グニョンとする画像歪み演出はどう実装するのか](./js/webgl-image-distortion.md)
+- [日本の祝日情報を取得する方法 — JSONで使うための3つの案](./js/japanese-holidays.md)
+- [静的Webサイトに無料で翻訳機能を追加する方法](./js/static-site-translation.md)
+
+### nextjs
+
+- [Next.js + microCMSでブログを作成](./nextjs/microcms-blog.md)
+
+### other
+
+- [2026年上期インプット一覧](./other/input-resources-2026-h1.md)
+- [ツェッテルカステンについて調べてみた](./other/zettelkasten.md)
+- [技術記事の書き方まとめ](./other/technical-writing.md)
+
+### p5js
+
+- [p5-learningを制作 — 動くスケッチと解説でp5.jsを学ぶサイト](./p5js/p5-learning.md)
+
+### security
+
+- [CVSS v4.0スコアとは](./security/cvss-v4.md)
+- [PHPに脆弱性が発見された時のWeb制作会社としての適切な対応](./security/php-vulnerability-response.md)
+- [Turnstile と reCAPTCHA — 問い合わせフォームのスパム対策](./security/turnstile-vs-recaptcha.md)
+- [Web制作会社のインシデント：よくある20パターン](./security/web-agency-incidents.md)
+- [Web制作会社のセキュリティガイドライン](./security/web-agency-security-guidelines.md)
+- [メールのセキュリティ — SPF / DKIM / DMARC で自動返信を届ける](./security/email-authentication.md)
+
+### wordpress
+
+- [ACF PROで標準スタイルとWordの貼り付け書式を両立する](./wordpress/acf-word-paste-styles.md)
+- [ACFブロック](./wordpress/acf-blocks.md)
 - [WordPressの最低限のセキュリティ対策](./wordpress/minimum-security.md)
 - [WordPressをヘッドレスCMSとして利用する](./wordpress/headless-wordpress.md)
 - [WPのバックアッププラグインの比較](./wordpress/backup-plugins.md)
 - [WPの移行をプラグインを使用せずに行う方法 — ファイルとDBを手動で移す](./wordpress/manual-migration.md)
-- [なぜデジタル庁のフォーカスインジケーターは黄色なのか](./a11y/digital-agency-focus-indicator.md)
-- [グニョンとする画像歪み演出はどう実装するのか](./js/webgl-image-distortion.md)
-- [コンテナタイプ：サイズ — アスペクト比でヒーローのレイアウトを切り替える](./css/container-size-aspect-ratio.md)
-- [ツェッテルカステンについて調べてみた](./other/zettelkasten.md)
-- [ヒーローのキャッチコピーはh1かpか](./html/hero-heading-or-paragraph.md)
-- [フォントサイズをremで指定したまま画面幅に応じて拡縮させる](./css/accessible-fluid-font-scale.md)
-- [フォントメトリクスを調整する方法](./css/font-metrics.md)
-- [メールのセキュリティ — SPF / DKIM / DMARC で自動返信を届ける](./security/email-authentication.md)
 - [内閣府の祝日CSVをJSONに変換する — WordPressのFullCalendarに祝日を表示する](./wordpress/holidays-fullcalendar.md)
-- [地図情報のアクセシブルな出し方 — 埋め込み地図だけに頼らない](./a11y/accessible-maps.md)
+
+### workflow
+
+- [Web制作における修正指示のあり方](./workflow/revision-instructions.md)
+- [Web制作会社のコーディングガイドライン — 参考資料と目次案](./workflow/coding-guidelines.md)
 - [容量の多いGitの管理方法 — 保存場所と大きなファイルを見直す](./workflow/large-git-repositories.md)
-- [技術記事の書き方まとめ](./other/technical-writing.md)
-- [日本の祝日情報を取得する方法 — JSONで使うための3つの案](./js/japanese-holidays.md)
-- [無料枠のあるヘッドレスCMS — Astroで使う候補と繰り返しフィールドの対応](./cms/free-headless-cms.md)
-- [見出しはヘッダーではなくmainタグにいれるべきなのか](./html/headings-in-main.md)
-- [静的Webサイトに無料で翻訳機能を追加する方法](./js/static-site-translation.md)
 
-## 重複・改稿版を整理した記事（16 件）
-
-- [2026年10月時点で安くて堅牢なCMSとは — WordPress・Drupal・Contentfulなどを比較する](./cms/cms-comparison-2026-10.md)
-- [ATAG 2.0について — オーサリングツール向けのアクセシビリティガイドライン](./a11y/atag-2-0.md)
-- [Beyond WCAGとは — 達成基準のチェックを超えた配慮](./a11y/beyond-wcag.md)
-- [フォントサイズをremで指定したまま画面幅に応じて拡縮させる](./css/accessible-fluid-font-scale.md)
-- [Spotify風のUIを制作 — GSAPでカバーの縮小とヘッダーの切り替えを作る](./js/spotify-scroll-ui.md)
-- [見出しはヘッダーではなくmainタグにいれるべきなのか](./html/headings-in-main.md)
-- [prefers-reduced-motion — モーション設定への対応](./a11y/prefers-reduced-motion.md)
-- [prefers-reduced-motion — モーション設定への対応](./a11y/prefers-reduced-motion.md)
-- [Astro + Swup モザイク遷移アニメ実装ガイド](./astro/swup-mosaic-transition.md)
-- [WCAG 3.0について — 次期ガイドラインの方針とWCAG 2との違い](./a11y/wcag-3-0.md)
-- [アクセシブルなツールチップの実装](./a11y/accessible-tooltip.md)
-- [内閣府の祝日CSVをJSONに変換する — WordPressのFullCalendarに祝日を表示する](./wordpress/holidays-fullcalendar.md)
-- [日本の祝日情報を取得する方法 — JSONで使うための3つの案](./js/japanese-holidays.md)
-- [フォントサイズをremで指定したまま画面幅に応じて拡縮させる](./css/accessible-fluid-font-scale.md)
-- [技術記事の書き方まとめ](./other/technical-writing.md)
-- [JSON-LDとは何か — 構造化データの基礎](./other/json-ld.md)
