@@ -32,3 +32,10 @@
 - [x] [astro:assets — 画像最適化の仕組み](./astro-assets-image-optimization.md)
 - [x] [View Transitions in Astro — ページ遷移アニメーション](./view-transitions.md)
 - [x] [Vercel / Netlify / Cloudflare Pagesへのデプロイ](./deploy-vercel-netlify-cloudflare.md)
+
+## 整理した記事
+
+- [x] [Astro × microCMSでブログを作る — Content Loaderの基礎](./microcms-content-loader.md)
+- [x] [Astro × swup Fragment Plugin — タグ一覧だけを差し替える](./swup-fragment-plugin.md)
+- [x] [Astroにswupを導入する — ページ遷移をスムーズにする](./swup-setup.md)
+- [x] [Astro + Swup モザイク遷移アニメ実装ガイド](./swup-mosaic-transition.md)

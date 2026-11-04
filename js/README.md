@@ -37,3 +37,16 @@
 - [ ] JavaScriptの型変換と落とし穴
 - [ ] try-catch-finallyとエラーハンドリングの設計
 - [ ] TypeScriptを始めるための最低限の型知識
+
+## 整理した記事
+
+- [x] [GitHubのcontributionsを取得する](./github-contributions.md)
+- [x] [Spotify風のUIを制作 — GSAPでカバーの縮小とヘッダーの切り替えを作る](./spotify-scroll-ui.md)
+- [x] [Paper.jsについて調べてみた](./paperjs.md)
+- [x] [Scroll Image Distortionを制作 — スクロールに応じてカード画像を歪ませる](./scroll-image-distortion.md)
+- [x] [Scroll Warsを制作 — Astro・three.js・Lenisでスクロールに連動する宇宙の演出を作る](./scroll-wars.md)
+- [x] [swup というライブラリの使い方 — ページ遷移をスムーズにする](./swup-basics.md)
+- [x] [TinyMCE 5のPasteプラグイン — Wordの書式保持と貼り付け設定](./tinymce5-paste.md)
+- [x] [グニョンとする画像歪み演出はどう実装するのか](./webgl-image-distortion.md)
+- [x] [日本の祝日情報を取得する方法 — JSONで使うための3つの案](./japanese-holidays.md)
+- [x] [静的Webサイトに無料で翻訳機能を追加する方法](./static-site-translation.md)

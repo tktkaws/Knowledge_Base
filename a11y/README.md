@@ -75,7 +75,7 @@
 - [x] [カラーコントラスト比の基準と確認方法](./color-contrast.md)
 - [x] [スクリーンリーダーでの手動テスト入門 — VoiceOver / NVDA](./screen-reader-manual-testing.md)
 - [x] [CI/CDにアクセシビリティテストを組み込む方法](./a11y-ci-cd.md)
-- [ ] WCAG-EMについて — サイト単位で適合性を評価する手順
+- [x] [WCAG-EMについて — 適合評価を5ステップで進める](./wcag-em.md)
 - [ ] VPATについて — 製品のアクセシビリティ適合を報告する書式
 - [ ] アクセシビリティ方針の書き方 — 対象範囲、目標レベル、例外の示し方
 - [ ] 適合レベル A / AA / AAA の選び方 — どこを目標ラインにするか
@@ -90,10 +90,18 @@
 - [x] [セマンティックHTMLの原則 — div/spanに頼らないマークアップ](./semantic-html.md)
 - [x] [ランドマークロールとページ構造の設計](./landmark-regions.md)
 - [x] [フォーカスインジケーターのカスタマイズ — :focus-visibleの活用](./focus-visible.md)
-- [ ] inert属性の使い方 — 操作不要な部分をフォーカスと支援技術から外す
+- [x] [inert属性の使い方 — モーダル背後を一括で無効にする](./inert.md)
 - [ ] hidden / aria-hidden / inert の使い分け — 非表示にする手段ごとの、読み上げとフォーカスへの影響
 - [ ] アクセシブルネームの計算 — 画面のラベルと、支援技術が読む名前の決まり方
 - [ ] visually-hidden（sr-only） — 画面では隠し、支援技術には渡す手法
 - [ ] prefers-contrast と forced-colors — OSのハイコントラスト設定への対応
 - [ ] Popover API とアクセシビリティ — ポップオーバーを開いたときのフォーカスと読み上げ
 - [ ] lang属性 — ページ全体と一部分の言語を読み上げエンジンに渡す
+
+## 整理した記事
+
+- [x] [aria-hiddenは禁止したほうがよい？ — 誤用が多い属性と代替手段](./aria-hidden-pitfalls.md)
+- [x] [DHS Trusted Tester Certificationを取得](./trusted-tester-certification.md)
+- [x] [swup Accessibility Plugin — AJAX遷移でも読み上げとフォーカスを保つ](./swup-accessibility-plugin.md)
+- [x] [なぜデジタル庁のフォーカスインジケーターは黄色なのか](./digital-agency-focus-indicator.md)
+- [x] [地図情報のアクセシブルな出し方 — 埋め込み地図だけに頼らない](./accessible-maps.md)

@@ -28,3 +28,8 @@
 - [ ] details/summary要素 — アコーディオンUIの実装
 - [ ] template要素とslot要素の基礎
 - [ ] Popover API — ポップオーバーのネイティブ実装
+
+## 整理した記事
+
+- [x] [見出しはヘッダーではなくmainタグにいれるべきなのか](./headings-in-main.md)
+- [x] [ヒーローのキャッチコピーはh1かpか](./hero-heading-or-paragraph.md)

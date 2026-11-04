@@ -31,3 +31,11 @@
 - [x] [color-mix()とCSS Color Level 4](./color-mix.md)
 - [x] [:is() / :where() セレクタの違いと使い分け](./is-where-selectors.md)
 - [x] [anchor positioning — ツールチップやドロップダウンの配置](./anchor-positioning.md)
+
+## 整理した記事
+
+- [x] [フォントサイズをremで指定したまま画面幅に応じて拡縮させる](./accessible-fluid-font-scale.md)
+- [x] [CSSプロパティの順番を整理する — VS CodeとPostCSS](./property-order.md)
+- [x] [orientation: portrait について調べてみた](./orientation-portrait.md)
+- [x] [コンテナタイプ：サイズ — アスペクト比でヒーローのレイアウトを切り替える](./container-size-aspect-ratio.md)
+- [x] [フォントメトリクスを調整する方法](./font-metrics.md)
