@@ -22,6 +22,7 @@ README を除く記事数が5件以上のカテゴリを掲載しています。
 
 ## 履歴
 
+- 2026-11-10 [アクセシブルなプログレス表示の実装 — progress と meter の違い](./a11y/accessible-progress-and-meter.md)
 - 2026-11-07 [アクセシブルなツリービューの実装 — 階層の展開と矢印キー](./a11y/accessible-treeview.md)
 - 2026-11-06 [アクセシブルなツールバーの実装 — 関連する操作をまとめる](./a11y/accessible-toolbar.md)
 - 2026-11-04 [アクセシブルなスピンボタンの実装 — 数値の増減](./a11y/accessible-spinbutton.md)
