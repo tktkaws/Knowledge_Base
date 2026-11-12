@@ -22,6 +22,7 @@ README を除く記事数が5件以上のカテゴリを掲載しています。
 
 ## 履歴
 
+- 2026-11-13 [アクセシブルなメディアプレイヤーの実装 — 再生操作とキャプション](./a11y/accessible-media-player.md)
 - 2026-11-12 [アクセシブルなファイル選択の実装 — 選んだファイルと失敗を伝える](./a11y/accessible-file-selection.md)
 - 2026-11-11 [アクセシブルなウィザードの実装 — 複数ステップの進行とエラー](./a11y/accessible-wizard.md)
 - 2026-11-10 [アクセシブルなプログレス表示の実装 — progress と meter の違い](./a11y/accessible-progress-and-meter.md)
