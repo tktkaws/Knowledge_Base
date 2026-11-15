@@ -67,7 +67,7 @@
 - [x] [アクセシブルなファイル選択の実装 — 選んだファイルと失敗を伝える](./accessible-file-selection.md)
 - [x] [アクセシブルなメディアプレイヤーの実装 — 再生操作とキャプション](./accessible-media-player.md)
 - [x] [カード全体をクリック可能にする — 入れ子になったリンクを避ける](./clickable-card.md)
-- [ ] アクセシブルな同意バナーの実装 — フォーカス順と拒否できること
+- [x] [アクセシブルな同意バナーの実装 — フォーカス順と拒否できること](./accessible-consent-banner.md)
 
 ## テスト・検証
 - [x] [axe-core / Lighthouseを使ったアクセシビリティ自動テスト](./a11y-automated-testing.md)
