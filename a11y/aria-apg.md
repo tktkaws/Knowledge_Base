@@ -1,5 +1,7 @@
 # ARIA APGの読み方 — ウィジェット実装パターン集の公式ガイド
 
+> [APG記事一覧](../APG/README.md)に、30パターンの要約と既存の実装記事への案内を編纂しています。
+
 ## ARIA APGとは
 
 **ARIA Authoring Practices Guide（APG）** は、WAI-ARIAを使ってアクセシブルなUIを設計・実装するためのW3Cの公式ガイド。
