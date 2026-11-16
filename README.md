@@ -13,6 +13,7 @@ README を除く記事数が5件以上のカテゴリを掲載しています。
 | [css](./css/) | CSS — レイアウト、アニメーション、モダンCSS |
 | [js](./js/) | JavaScript — 基礎、非同期処理、DOM操作、モダンJS |
 | [a11y](./a11y/) | アクセシビリティ — 基礎概念、ガイドライン、WAI-ARIA、コンポーネント、テスト |
+| [APG](./APG/README.md) | ARIA Authoring Practices Guide — 30パターンの要約と既存実装記事の編纂 |
 | [wcag](./wcag/) | WCAG — 達成基準ごとの解説（2.0 / 2.1 / 2.2） |
 | [astro](./astro/) | Astro — アイランドアーキテクチャ、コンテンツ管理 |
 | [wordpress](./wordpress/) | WordPress — ブロックエディタ、テーマ、theme.json |
@@ -23,6 +24,7 @@ README を除く記事数が5件以上のカテゴリを掲載しています。
 ## 履歴
 
 - 2026-11-17 [VPATについて — 製品のアクセシビリティ適合を報告する書式](./a11y/vpat.md)
+- 2026-11-16 [APG記事群 — 30パターン、共通原則、既存実装記事の対応](./APG/README.md)
 - 2026-11-16 [アクセシブルな同意バナーの実装 — フォーカス順と拒否できること](./a11y/accessible-consent-banner.md)
 - 2026-11-14 [カード全体をクリック可能にする — 入れ子になったリンクを避ける](./a11y/clickable-card.md)
 - 2026-11-13 [アクセシブルなメディアプレイヤーの実装 — 再生操作とキャプション](./a11y/accessible-media-player.md)
